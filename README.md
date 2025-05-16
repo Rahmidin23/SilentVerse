@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # silent_02
+=======
+# silentverse
+>>>>>>> ba42316c35d96ef8c323968b947aa3c5389c39d9
 
 A new Flutter project.
 
@@ -14,3 +18,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+=======
+# SilentVerse
+>>>>>>> ba42316c35d96ef8c323968b947aa3c5389c39d9
