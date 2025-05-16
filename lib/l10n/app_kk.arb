@@ -1,0 +1,20 @@
+{
+    "@@locale": "kk",
+    "appTitle": "Silentverce",
+    "login": "Кіру",
+    "signup": "Тіркелу",
+    "logout": "Шығу",
+    "catalog": "Каталог",
+    "events": "Оқиғалар",
+    "reader": "Оқырман",
+    "profile": "Профиль",
+    "email": "Электрондық пошта",
+    "password": "Құпия сөз",
+    "invalidEmail": "Дұрыс электрондық пошта енгізіңіз",
+    "shortPassword": "Құпия сөз тым қысқа",
+    "loginFailed": "Кіру қатесі",
+    "signupFailed": "Тіркелу қатесі",
+    "dontHaveAccount": "Аккаунтыңыз жоқ па? Тіркеліңіз",
+    "alreadyHaveAccount": "Аккаунтыңыз бар ма? Кіру"
+  }
+  

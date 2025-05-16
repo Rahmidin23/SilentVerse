@@ -1,0 +1,20 @@
+{
+    "@@locale": "en",
+    "appTitle": "Silentverce",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "catalog": "Catalog",
+    "events": "Events",
+    "reader": "Reader",
+    "profile": "Profile",
+    "email": "Email",
+    "password": "Password",
+    "invalidEmail": "Please enter a valid email",
+    "shortPassword": "Password is too short",
+    "loginFailed": "Login failed",
+    "signupFailed": "Signup failed",
+    "dontHaveAccount": "Don't have an account? Sign Up",
+    "alreadyHaveAccount": "Already have an account? Login"
+  }
+  

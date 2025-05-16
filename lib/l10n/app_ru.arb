@@ -1,0 +1,20 @@
+{
+    "@@locale": "ru",
+    "appTitle": "Silentverce",
+    "login": "Войти",
+    "signup": "Регистрация",
+    "logout": "Выйти",
+    "catalog": "Каталог",
+    "events": "События",
+    "reader": "Читалка",
+    "profile": "Профиль",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "invalidEmail": "Пожалуйста, введите корректный email",
+    "shortPassword": "Пароль слишком короткий",
+    "loginFailed": "Ошибка входа",
+    "signupFailed": "Ошибка регистрации",
+    "dontHaveAccount": "Нет аккаунта? Зарегистрируйтесь",
+    "alreadyHaveAccount": "Уже есть аккаунт? Войти"
+  }
+  
